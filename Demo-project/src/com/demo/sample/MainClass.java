@@ -4,5 +4,6 @@ public class MainClass {
 public static void main(String[] args) {
 	System.out.println("Test the github account");
 	System.out.println("Changes in file");
+	System.out.println("Learning the logs of git ");
 }
 }
